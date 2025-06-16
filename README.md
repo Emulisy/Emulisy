@@ -4,7 +4,7 @@
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&duration=1000&pause=1000&color=00CED1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+there,+I'm+Emulisy.👋;Welcome+to+my+GitHub+page!;Wanna+know+more+about+me?" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&duration=1000&pause=1000&color=00CED1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+there,+I'm+Emulisy.👋;Welcome+to+my+GitHub+page!" alt="Typing SVG" />
   </a>
 </h2>
 
@@ -22,6 +22,11 @@
 🌸 Watching **anime**  
 ...and so much more!
 </div>
+
+<p align="center">
+  📧 <strong>Contact me:</strong> <a href="mailto:ianzhang2088979637@gmail.com">ianzhang2088979637@gmail.com</a> &nbsp;|&nbsp;
+  🐞 <strong>Ask anything:</strong> <a href="https://github.com/Emulisy/Emulisy/issues">Open an Issue</a>
+</p>
 
 ---
 
