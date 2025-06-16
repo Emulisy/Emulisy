@@ -23,6 +23,30 @@
 
 ---
 
+### 🧰 Tech Stack
+
+<!-- Badges with icons and version styling -->
+<p>
+  <img src="https://badgen.net/badge/Java/17/orange?icon=java" alt="Java Badge"/>
+  <img src="https://badgen.net/badge/Python/3.10/blue?icon=python" alt="Python Badge"/>
+  <img src="https://badgen.net/badge/HTML/5/orange?icon=html5" alt="HTML Badge"/>
+  <img src="https://badgen.net/badge/CSS/3/blue?icon=css3" alt="CSS Badge"/>
+  <img src="https://badgen.net/badge/JavaScript/ES6/yellow?icon=javascript" alt="JavaScript Badge"/>
+  <img src="https://badgen.net/badge/C++/11/blue?icon=code" alt="C++ Badge"/>
+</p>
+
+</div>
+
+<p>
+  <img src="https://badgen.net/badge/VSCode/1.89/blue?icon=visualstudio" alt="VS Code Badge"/>
+  <img src="https://badgen.net/badge/IntelliJ/IDEA/red?icon=jetbrains" alt="IntelliJ Badge"/>
+  <img src="https://badgen.net/badge/PyCharm/Pro/green?icon=jetbrains" alt="PyCharm Badge"/>
+  <img src="https://badgen.net/badge/CLion/JetBrains/blue?icon=jetbrains" alt="CLion Badge"/>
+  <img src="https://badgen.net/badge/MATLAB/R2024a/orange?icon=code" alt="MATLAB Badge"/>
+</p>
+
+---
+
 <div align="center">
 
 ## 📊 Stats
