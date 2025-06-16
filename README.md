@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/Emulisy/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Emulisy/count.svg) visitors so far!
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
