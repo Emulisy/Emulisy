@@ -17,7 +17,7 @@
 🎓 I'm currently studying at **Monash University**, majoring in **Advanced Computer Science**.  
 🧠 Passionate about **coding**, **data science**, **artificial intelligence**, and light **web development**.  
 🎹 Outside of coding, I enjoy:  
-🎶 Playing the **piano** & exploring **classical** and **jazz** music  
+🎶 Playing the **piano** & **classical** and **jazz** music(especially Sheena Ringo and Bossa Nova)
 📚 Reading **books**  
 🌸 Watching **anime**  
 ...and so much more!
