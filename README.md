@@ -1,4 +1,4 @@
-<img src="assets/hero-mobile1.png" alt="水上yuki" width="100%" />
+<img src="assets/bg.png" alt="水上yuki" width="100%" />
 
 ![Visitor Count](https://profile-counter.glitch.me/Emulisy/count.svg) visitors so far!
 
