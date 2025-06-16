@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p align="center" style="font-size: 22px; font-family: 'Segoe UI', sans-serif;">
   <strong>I learn not because I want to but because I&nbsp;</strong>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Monash_University_Logo.svg/2560px-Monash_University_Logo.svg.png" alt="Monash Logo" height="24"/>
+  <img src="assets/Monash_University_logo.svg.png" alt="Monash Logo" height="30" style="vertical-align: middle;" />
 </p>
