@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-<p align="center" style="font-size: 22px; font-family: 'Segoe UI', sans-serif;">
-  <strong>I learn not because I want to but because I&nbsp;</strong>
-  <img src="assets/Monash_University_logo.svg.png" alt="Monash Logo" height="30" style="vertical-align: middle;" />
-</p>
+<h3 align="center">
+  <em>I learn not because I want to but because I&nbsp;</em>
+  <img src="assets/Monash_University_logo.svg.png" alt="Monash Logo" height="28" />
+</h3>
