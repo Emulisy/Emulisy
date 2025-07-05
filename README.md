@@ -72,5 +72,5 @@
 
 <h3 align="center">
   <em>I learn not because I want to but because I&nbsp;</em>
-  <img src="assets/Monash_University_logo.svg.png" alt="Monash Logo" height="28" />
+  <img src="assets/Monash_University_logo.svg.png" alt="Monash Logo" style="width: 100px;" />
 </h3>
