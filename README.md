@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-🎓 I'm currently studying at **Monash University**, majoring in **Advanced Computer Science**.  
+🎓 I'm currently studying at **Monash University**@Melbourne and **CAUC**@Tianjin, majoring in **Computer Science**.  
 🧠 Passionate about **coding**, **data science**, **artificial intelligence**, and light **web development**.  
 🎹 Outside of coding, I enjoy:  
 🎶 Playing the **piano** & **classical** and **jazz** music(especially Sheena Ringo and Bossa Nova)<br>
