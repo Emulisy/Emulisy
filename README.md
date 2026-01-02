@@ -62,9 +62,6 @@
   <tr>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emulisy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
     <td>
-      <img align="left" heigh=400 src="https://github-readme-stats.vercel.app/api?username=Emulisy&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
-    </td>
-    <td>
       <img src="https://github-stats.ubrong.com/api/top-langs/?username=Emulisy&layout=compact&theme=tokyonight" alt="Top Languages"/>
     </td>
   </tr>
