@@ -1,37 +1,48 @@
 <img src="assets/bg.png" alt="水上yuki" width="100%" />
 
-![](https://komarev.com/ghpvc/?username=Emulisy) visitors so far!
-
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&duration=1000&pause=1000&color=00CED1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+there,+I'm+Emulisy.👋;Welcome+to+my+GitHub+page!" alt="Typing SVG" />
-  </a>
-</h2>
-
 ---
 
-<div align="center">
+## About 
 
-## 👋 About Me
+<table>
+  <tr>
+    <td width="40%" align="center" valign="middle">
 
-🎓 I'm currently studying at **Monash University** and **CAUC**, majoring in **Computer Science**.  
-💻 Currently exploring <b>Go backend development</b>,
-<b>distributed systems</b>, and <b>cloud infrastructure</b>.  
-🎹 Outside of coding, I enjoy:  
-🎶 Playing the **piano** & **classical** and **jazz** music(especially Sheena Ringo and Bossa Nova)<br>
-📚 Reading **books**  
-🌸 Watching **anime**  
-...and so much more!
-</div>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31vloj26lapb736lvlwgghhbpsd4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vloj26lapb736lvlwgghhbpsd4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
+  </a>
+
+</td>
+
+<td width="60%" valign="middle">
+
+I'm currently studying at **Monash University**, majoring in **Computer Science**.
+
+Currently exploring <b>Go backend development</b>,
+<b>distributed systems</b>, and <b>cloud infrastructure</b>.
+
+Beyond computing, my interests include piano, classical and jazz music,
+literature, and anime.
+
+</td>
+  </tr>
+</table>
 
 <p align="center">
-  📧 <strong>Contact me:</strong> <a href="mailto:ianzhang2088979637@gmail.com">ianzhang2088979637@gmail.com</a> &nbsp;|&nbsp;
-  🐞 <strong>Ask anything:</strong> <a href="https://github.com/Emulisy/Emulisy/issues">Open an Issue</a>
+  <strong>Contact me:</strong>
+  <a href="mailto:ianzhang2088979637@gmail.com">
+    ianzhang2088979637@gmail.com
+  </a>
+  &nbsp;|&nbsp;
+  <strong>Ask anything:</strong>
+  <a href="https://github.com/Emulisy/Emulisy/issues">
+    Open an Issue
+  </a>
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -64,35 +75,41 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ☁️ Distributed Cloud Storage
+### Distributed Cloud Storage
+
 > A distributed content-addressable storage system built with Go.
 
 `Go` `REST API` `Docker` `Redis` `Distributed Systems`
 
-### ✅ Taskly
+### Taskly
+
 > A full-stack task management application.
 
 `JavaScript` `Supabase` `HTML` `CSS`
 
-### 🎫 Ticket to Ride
+### Ticket to Ride
+
 > Object-oriented board game implementation with multiple design patterns.
 
 `Java` `Swing` `OOP` `Design Patterns`
 
-## 📊 Stats
+## Stats
 
-<table>
-  <tr>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emulisy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-    <td>
-      <img src="https://github-stats.ubrong.com/api/top-langs/?username=Emulisy&layout=compact&theme=tokyonight" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Emulisy&theme=react-dark&bg_color=20232a&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 <h3 align="center">
   <em>I learn not because I want to but because I&nbsp;</em>
-  <img src="assets/Monash_University_logo.svg.png" alt="Monash Logo" style="width: 100px;" />
+  <img
+    src="assets/Monash_University_logo.svg.png"
+    alt="Monash Logo"
+    width="100"
+  />
 </h3>
