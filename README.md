@@ -15,7 +15,8 @@
 ## 👋 About Me
 
 🎓 I'm currently studying at **Monash University** and **CAUC**, majoring in **Computer Science**.  
-🧠 Passionate about **coding**, **data science**, **artificial intelligence**, and light **web development**.  
+💻 Currently exploring <b>Go backend development</b>,
+<b>distributed systems</b>, and <b>cloud infrastructure</b>.  
 🎹 Outside of coding, I enjoy:  
 🎶 Playing the **piano** & **classical** and **jazz** music(especially Sheena Ringo and Bossa Nova)<br>
 📚 Reading **books**  
@@ -30,31 +31,55 @@
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-<!-- Badges with icons and version styling -->
-<p>
-  <img src="https://badgen.net/badge/Java/17/orange?icon=java" alt="Java Badge"/>
-  <img src="https://badgen.net/badge/Python/3.10/blue?icon=python" alt="Python Badge"/>
-  <img src="https://badgen.net/badge/HTML/5/orange?icon=html5" alt="HTML Badge"/>
-  <img src="https://badgen.net/badge/CSS/3/blue?icon=css3" alt="CSS Badge"/>
-  <img src="https://badgen.net/badge/JavaScript/ES6/yellow?icon=javascript" alt="JavaScript Badge"/>
-  <img src="https://badgen.net/badge/C++/11/blue?icon=code" alt="C++ Badge"/>
-</p>
-
-</div>
+### Languages
 
 <p>
-  <img src="https://badgen.net/badge/VSCode/1.89/blue?icon=visualstudio" alt="VS Code Badge"/>
-  <img src="https://badgen.net/badge/IntelliJ/IDEA/red?icon=jetbrains" alt="IntelliJ Badge"/>
-  <img src="https://badgen.net/badge/PyCharm/Pro/green?icon=jetbrains" alt="PyCharm Badge"/>
-  <img src="https://badgen.net/badge/CLion/JetBrains/blue?icon=jetbrains" alt="CLion Badge"/>
-  <img src="https://badgen.net/badge/MATLAB/R2024a/orange?icon=code" alt="MATLAB Badge"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
+### Backend & Databases
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+## 🚀 Featured Projects
+
+### ☁️ Distributed Cloud Storage
+> A distributed content-addressable storage system built with Go.
+
+`Go` `REST API` `Docker` `Redis` `Distributed Systems`
+
+### ✅ Taskly
+> A full-stack task management application.
+
+`JavaScript` `Supabase` `HTML` `CSS`
+
+### 🎫 Ticket to Ride
+> Object-oriented board game implementation with multiple design patterns.
+
+`Java` `Swing` `OOP` `Design Patterns`
 
 ## 📊 Stats
 
