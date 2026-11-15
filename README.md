@@ -18,7 +18,7 @@
       I'm a Computer Science student at <strong>Monash University</strong>.
       <br /><br />
       I'm currently exploring <strong>Go backend development</strong>,
-      <strong>distributed systems</strong>, <strong>cloud infrastructure</strong>,
+      <strong>distributed systems</strong>, <strong>cloud infrastructure</strong>, <strong>AI Agents</strong>,
       and reliable storage systems.
       <br /><br />
       Outside computing, I enjoy piano, classical and jazz music,
